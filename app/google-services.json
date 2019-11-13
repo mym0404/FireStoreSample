@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "508025002983",
+    "firebase_url": "https://mjproject-dfd52.firebaseio.com",
+    "project_id": "mjproject-dfd52",
+    "storage_bucket": "mjproject-dfd52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508025002983:android:7675e92cb42039c8a6bb42",
+        "android_client_info": {
+          "package_name": "happy.mjstudio.firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508025002983-fd5j9n4bm7e3j8p1vnths6hcaiqi8bip.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "happy.mjstudio.firestore",
+            "certificate_hash": "b8ccb30f774aa18ec0899e167169ee01dc7f01dd"
+          }
+        },
+        {
+          "client_id": "508025002983-vnbrr543phr0d01q29set2d93an5dkh1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn7LHSn2J1xVXHXyfxFZ2yO81rZci5Bc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508025002983-vnbrr543phr0d01q29set2d93an5dkh1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
